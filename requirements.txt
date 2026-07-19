@@ -1,0 +1,22 @@
+# Core
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# Notebook environment
+jupyterlab
+ipykernel
+
+# Part 2 — domain/TLD parsing for host features (recommended)
+tldextract
+
+# Part 4 — gradient boosting (pick one)
+xgboost
+# lightgbm
+
+# Stretch goals (optional — add only if you do them)
+# fastapi
+# uvicorn
+# shap
