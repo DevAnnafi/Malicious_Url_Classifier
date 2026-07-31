@@ -154,7 +154,7 @@ The model catches defacement and phishing comparably (~68%), but **malware recal
 
 ## Author
 
-**Annafi Islam** — Cybersecurity Engineer
+**Annafi Islam** — Cybersecurity Engineer/AI/ML Engineer
 [GitHub](https://github.com/DevAnnafi) · [LinkedIn](https://linkedin.com/in/annafi-islam) · [Portfolio](https://annafiislam.com)
 
 ## License
